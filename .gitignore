@@ -2,3 +2,5 @@
 *.log
 
 templates/~$gantt.xlsx
+
+*.xlsx#
